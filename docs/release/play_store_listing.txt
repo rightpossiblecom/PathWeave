@@ -1,0 +1,33 @@
+TITLE
+PathWeave
+
+SHORT DESCRIPTION (76 chars)
+Calm single-stroke logic puzzles. Weave one unbroken path across every tile.
+
+FULL DESCRIPTION
+PathWeave is a clean, tactile spatial logic puzzle game built for quiet focus and satisfying deduction.
+
+Your goal on every board is simple to learn and deeply rewarding to master: draw a single continuous ribbon starting from the glowing origin tile that visits every open tile on the grid without crossing your own trail or stepping onto dark stone blocks.
+
+As you progress from gentle 4x4 warmups into larger 6x6 and 7x6 boards, numbered step anchors introduce an extra layer of crisp forward planning. An anchor marked with a step number must be reached on that exact move count, turning every puzzle into a pure logical deduction with zero guesswork.
+
+KEY FEATURES
+- 40 Handcrafted Campaign Puzzles organized across four chapters: Breeze, Weave, Labyrinth, and Mastery.
+- Daily Weave Mode delivering a fresh, deterministically generated 6x5 puzzle board every single day with local streak tracking.
+- Smooth Single-Stroke Controls supporting both continuous finger dragging and crisp tile tapping, plus effortless drag-back unwinding.
+- Smart Prefix Hints that gently restore any diverged trail back onto the true solution path and reveal the next step whenever you get stuck.
+- Optional Step Counter Overlay to visualize exact move numbers across complex boards.
+- Adaptive Light and Dark Themes crafted with Material 3 color harmony and subtle haptic feedback.
+- Complete Offline Play with no login, no ads, no timers forcing mistakes, and zero personal data collection.
+
+CATEGORY
+Puzzle
+
+CONTENT RATING
+Everyone (No violence, no user-generated content, no chat, no purchases, no location sharing)
+
+DATA SAFETY SUMMARY
+- Collects personal or sensitive user data: No
+- Shares data with third parties: No
+- Account creation required: No
+- All puzzle progress is stored locally on the user's device and can be cleared anytime from Settings.
